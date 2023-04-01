@@ -7,9 +7,9 @@ This project focuses on the implementation of Reinforcement Learning (RL) algori
 ## Project implementation 
 <p align="center">
   
-  <img src = "https://user-images.githubusercontent.com/4907348/229299436-56deb00b-ccad-4039-8220-4fae9a6667c4.jpg" height="500"/>
-  <img src = "https://user-images.githubusercontent.com/4907348/229299472-e1bb4413-920f-4ff1-bdf5-7b6471947e5c.jpg" height="500"/>
-  <img src = "https://user-images.githubusercontent.com/4907348/229299489-f6d58094-7011-48cb-9db0-9b5fbae49c8c.jpg" height="500"/> 
+  <img src = "https://user-images.githubusercontent.com/4907348/229299436-56deb00b-ccad-4039-8220-4fae9a6667c4.jpg" height="400"/>
+  <img src = "https://user-images.githubusercontent.com/4907348/229299472-e1bb4413-920f-4ff1-bdf5-7b6471947e5c.jpg" height="400"/>
+  <img src = "https://user-images.githubusercontent.com/4907348/229299489-f6d58094-7011-48cb-9db0-9b5fbae49c8c.jpg" height="400"/> 
 
 </p>
 
